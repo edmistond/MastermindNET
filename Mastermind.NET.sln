@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mastermind.NET", "Mastermind.NET\Mastermind.NET.csproj", "{DE7902C6-DCC3-4E3A-A248-FF301E4CCB50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MastermindTests", "MastermindTests\MastermindTests.csproj", "{721E0305-A98E-4266-ABD6-6CDDD08BD20E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE7902C6-DCC3-4E3A-A248-FF301E4CCB50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7902C6-DCC3-4E3A-A248-FF301E4CCB50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7902C6-DCC3-4E3A-A248-FF301E4CCB50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7902C6-DCC3-4E3A-A248-FF301E4CCB50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721E0305-A98E-4266-ABD6-6CDDD08BD20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721E0305-A98E-4266-ABD6-6CDDD08BD20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721E0305-A98E-4266-ABD6-6CDDD08BD20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721E0305-A98E-4266-ABD6-6CDDD08BD20E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62CEB2FF-A948-4843-A2D2-7AA83BBE85D7}
+	EndGlobalSection
+EndGlobal
